@@ -1,4 +1,4 @@
-# test_task7
+# test_task6
 
 ## Project setup
 ```
